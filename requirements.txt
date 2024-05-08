@@ -113,7 +113,7 @@ tzlocal==4.3.1
 ujson==5.7.0
 urllib3==1.26.18
 uvicorn==0.22.0
-uvloop==0.17.0
+#uvloop==0.17.0
 validators==0.20.0
 watchdog==3.0.0
 watchfiles==0.20.0
